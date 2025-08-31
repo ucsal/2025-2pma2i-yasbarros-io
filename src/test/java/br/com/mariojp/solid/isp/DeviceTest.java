@@ -1,7 +1,7 @@
 package br.com.mariojp.solid.isp;
 
+import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 public class DeviceTest {
     @Test
